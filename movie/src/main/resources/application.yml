@@ -1,0 +1,8 @@
+naver:
+  url:
+    search:
+      movie: https://openapi.naver.com/v1/search/movie.json
+      image: https://openapi.naver.com/v1/search/image
+  client:
+    id: 03k0MM7ry0DPruhStVY2
+    secret: WW8_nH8ww8
